@@ -35,7 +35,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/daichenwww/VFX-final-personalize-anything.git
-cd VFX-final-personalize-anything
+cd personalize-anything-demo
 ```
 
 Create a virtual environment:
